@@ -117,4 +117,4 @@ WEBP_QUALITY = 80
 
 ## License
 
-No license attached yet — code is © Ergin Mehmeti, all rights reserved. Open an issue if you want a permissive license added.
+[MIT License](LICENSE) — © 2026 Ergin Mehmeti. Free to use, modify, and distribute, including commercially. Just keep the copyright notice.
