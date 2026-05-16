@@ -4,6 +4,8 @@
 
 Drop in a folder of full-resolution photos, get back a `web/` folder containing every image in 4 sizes × 2 formats, ready to drop into `<picture>` / `srcset` / a CMS / a static site. Same naming convention, same quality settings, every time. No manual export from Photoshop / Lightroom for each shoot.
 
+![Photo Web Optimizer screenshot](docs/screenshot.png)
+
 For each source image you get, inside `web/`:
 
 | Variant | Longest side | Formats |
